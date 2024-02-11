@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Corin and I'm a software developer, from The Netherlands.</h2>
-
 ###
 
 <div align="center">
