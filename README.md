@@ -1,35 +1,31 @@
-###
+# Hi, I'm Corin Craciun
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corinbz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corinbz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Software developer · C / C++ · Netherlands**
 
-###
+I like understanding what happens beneath the interface: how a shell turns a
+line of text into processes, how an HTTP server juggles hundreds of sockets on
+one thread, how a ray hits a wall. I'm finishing the 42 curriculum at Codam
+Amsterdam and looking for my first software engineering role.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+[corincraciun.dev](https://corincraciun.dev) ·
+[LinkedIn](https://www.linkedin.com/in/corin-cr%C4%83ciun-317805106/) ·
+[craciuncorin5@gmail.com](mailto:craciuncorin5@gmail.com)
 
-###
+## Selected work
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+| Project | What it is | Built with |
+|---|---|---|
+| [Webserv](https://github.com/corinbz/all_42/tree/main/Webserv) | HTTP/1.1 server from scratch: non-blocking `poll()` event loop, NGINX-style config, static files, uploads, CGI | C++11 |
+| [Minishell](https://github.com/corinbz/all_42/tree/main/Minishell) | A `bash`-like shell: tokenizer → parser → executor, pipes, redirections, heredocs, expansion, builtins, signals | C, readline |
+| [Cub3D](https://github.com/corinbz/all_42/tree/main/Cub3D) | Wolfenstein-style ray-casted renderer with textured walls and a movable first-person camera | C, MLX42 |
+| [Philosophers](https://github.com/corinbz/all_42/tree/main/Philosophers) | Dining philosophers with threads, mutexes and a starvation monitor | C, pthreads |
+| ft_transcendence | Full-stack event platform built with a team of five: realtime updates, ticketing, PR-based workflow, CI. *(private team repo, happy to walk through it)* | TypeScript, React, TanStack, Bun, Docker |
 
-###
+All 42 projects, with full commit history, live in **[all_42](https://github.com/corinbz/all_42)**.
 
-<br clear="both">
+## What I'm doing now
 
-###
+- Wrapping up the 42 common core (Webserv and ft_transcendence done, Inception in progress)
+- Open to junior software engineer roles in the Netherlands, on-site or hybrid
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corinbz&layout=compact&langs_count=4&hide_border=true&theme=default" height="140" alt="Most used languages" />
