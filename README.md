@@ -27,5 +27,3 @@ All 42 projects, with full commit history, live in **[all_42](https://github.com
 
 - Finishing the 42 common core at Codam (ft_transcendence, a team full-stack project, is the last one)
 - Open to junior software engineer roles in the Netherlands, on-site or hybrid
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corinbz&layout=compact&langs_count=4&hide_border=true&theme=default" height="140" alt="Most used languages" />
